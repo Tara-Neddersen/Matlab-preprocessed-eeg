@@ -1,0 +1,17 @@
+EEG Data Metadata
+================
+
+Original Data Path: /Users/tahouranedaee/Downloads/translation/matlab_python_eeg_viewer/../mouse_spikewave-matlab-style/data/SW1245_P30SS/SW123_1245.57.61_2025-03-17_09-43-42
+Processing Date: 07-Aug-2025 10:58:02
+Sample Rate: 250 Hz
+Duration: 13902.84 seconds (231.71 minutes)
+Channels: [57 61]
+Data Shape: [3475712 2]
+
+Processing Parameters:
+Lowpass Filter: 25 Hz
+Highpass Filter: 1 Hz
+
+Data Statistics:
+Channel 57 - Min: -2.064905, Max: 2.139656, Mean: 0.000000, Std: 0.091949 mV
+Channel 61 - Min: -4.002510, Max: 7.111620, Mean: -0.000000, Std: 0.171868 mV
